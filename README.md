@@ -1,10 +1,16 @@
-# VK-QR
+<div align="center">
+
+[<img width="150" height="150" src="https://pp.userapi.com/c851220/v851220335/125ec2/RB-gm_NGv9c.jpg">](https://github.com/sveltevk/qr)
 
 [![NPM][npm]][npm-url]
 [![Build][build]][build-badge]
 [![VK chat][chat]][chat-url]
 
-Svelte components for [VK-style QR codes](https://github.com/VKCOM/qr).
+</div>
+
+# Svelte VK-QR
+
+Svelte components for [VK-style QR codes](https://github.com/VKCOM/vk-qr).
 
 ## Setup
 
@@ -94,7 +100,7 @@ generated QR code. The possible options are:
 
 ## License
 
-[![MIT][fossa]][fossa-url]
+[MIT](LICENSE)
 
 [npm]: https://img.shields.io/npm/v/@sveltevk/qr.svg?color=blue
 [npm-url]: https://npmjs.com/package/@sveltevk/qr
@@ -103,5 +109,3 @@ generated QR code. The possible options are:
 [chat]: https://img.shields.io/badge/VK%20chat-%234a76a8.svg?logo=VK&logoColor=white
 [chat-url]: https://vk.me/join/AJQ1d6Or8Q00Y_CSOESfbqGt
 [repl]: https://img.shields.io/badge/svelte-REPL-red?logo=svelte&logoColor=white&style=flat-square
-[fossa]: https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsveltevk%2Fqr.svg?type=large
-[fossa-url]: https://app.fossa.com/projects/git%2Bgithub.com%2Fsveltevk%2Fqr?ref=badge_large
