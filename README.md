@@ -3,8 +3,8 @@
 [<img width="150" height="150" src="https://pp.userapi.com/c851220/v851220335/125ec2/RB-gm_NGv9c.jpg">](https://github.com/sveltevk/qr)
 
 [![NPM][npm]][npm-url]
-[![Build][build]][build-badge]
 [![VK chat][chat]][chat-url]
+[![svelte-v3][svelte]][svelte-url]
 
 </div>
 
@@ -107,5 +107,7 @@ generated QR code. The possible options are:
 [build]: https://travis-ci.com/sveltevk/qr.svg?branch=master
 [build-badge]: https://travis-ci.com/sveltevk/qr
 [chat]: https://img.shields.io/badge/VK%20chat-%234a76a8.svg?logo=VK&logoColor=white
-[chat-url]: https://vk.me/join/AJQ1d6Or8Q00Y_CSOESfbqGt
-[repl]: https://img.shields.io/badge/svelte-REPL-red?logo=svelte&logoColor=white&style=flat-square
+[chat-url]: https://vk.me/join/AJQ1d3IXhxgxghIc5PFNiLCd
+[repl]: https://img.shields.io/badge/svelte-REPL-red?logoColor=white&style=flat-square
+[svelte]: https://img.shields.io/badge/svelte-v3-blueviolet.svg
+[svelte-url]: https://svelte.dev
