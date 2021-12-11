@@ -1,6 +1,6 @@
 {
   "name": "@sveltevk/qr",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "MIT",
   "description": "Svelte components for VK-style QR codes",
   "author": "Daniil Suvorov (https://github.com/SevereCloud)",
@@ -9,10 +9,10 @@
   "types": "./src/index.d.ts",
   "sideEffects": false,
   "dependencies": {
-    "@vkontakte/vk-qr": "2.0.10"
+    "@vkontakte/vk-qr": "2.0.13"
   },
   "peerDependencies": {
-    "svelte":"^3.20.0"
+    "svelte": "^3.20.0"
   },
   "repository": {
     "type": "git",
