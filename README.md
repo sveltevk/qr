@@ -1,6 +1,6 @@
 <div align="center">
 
-[<img width="150" height="150" src="https://pp.userapi.com/c851220/v851220335/125ec2/RB-gm_NGv9c.jpg">](https://github.com/sveltevk/qr)
+[<img width="150" height="150" src="https://user-images.githubusercontent.com/14944123/145690220-40728a82-55fa-47ba-b3a9-1eb33228d030.png">](https://github.com/sveltevk/qr)
 
 [![NPM][npm]][npm-url]
 [![VK chat][chat]][chat-url]
