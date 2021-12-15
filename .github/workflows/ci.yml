@@ -16,7 +16,6 @@ jobs:
       - name: Install and Build 🔧
         run: |
           yarn
-          yarn build
 
       - name: Publish Package 🚀
         run: yarn publish
