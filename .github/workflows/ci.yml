@@ -3,6 +3,9 @@ on:
   push:
     branches:
       - master
+    tags:
+      - v*
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -12,12 +15,15 @@ jobs:
         with:
           node-version: '16.x'
           registry-url: 'https://registry.npmjs.org'
-      
-      - name: Install and Build 🔧
-        run: |
-          yarn
 
-      - name: Publish Package 🚀
+      - name: Install 🔧
+        run: yarn
+
+      - name: Build 🏗️
+        run: yarn build
+
+      - name: Publish Package  📦
+        if: startsWith(github.ref, 'refs/tags/')
         run: yarn publish
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
